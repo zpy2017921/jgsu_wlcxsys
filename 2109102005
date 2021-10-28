@@ -1,1 +1,10 @@
-2109102005 hello,GitHub
+### 2109102005 hello,GitHub
+
+```
+#include <stdio.h>
+
+int main()
+{
+    printf("");
+}
+```
