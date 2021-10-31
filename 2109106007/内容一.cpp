@@ -1,9 +1,6 @@
 #include<stdio.h>
 int main()
 {
-	char stuId[12];
-	printf("«Î ‰»Î—ß∫≈:");
-	scanf("%s",&stuId,12);
-	printf("%s hello,GitHub",stuId);
+	printf("2109106007,hello,GitHub");
 	return 0;
  } 
