@@ -2,5 +2,5 @@
 int main()
 {
 	printf("2109106004 hello , GitHub\n");
-	return 0;
+
 }
