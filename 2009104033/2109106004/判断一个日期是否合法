@@ -1,0 +1,48 @@
+/*判断一个日期是否合法*/
+#include <stdio.h>
+int main()
+{
+	int year;
+	int month;
+	int day;
+	printf("Please enter a date:\n");
+	scanf("%d-%d-%d",&year ,&month ,&day);
+	if (month<1||month>12)/*判断月份是否正确*/
+		printf("incorrect\n");
+	else if (month==1||month==3||month==5||month==7||month==8||month==10||month==12)/*判断1、3、5、7、8、10、12月份的日期是否正确*/
+	{
+		if (day<1||day>31)
+			printf("incorrect\n");
+		else
+			printf("correct");
+
+	}
+	else if (month==4||month==6||month==9||month==11)/*判断4、6、9、11月份的日期是否正确*/
+	{
+		if (day<1||day>30)
+			printf("incorrect\n");
+		else
+			printf("correct\n");
+	}
+	else if (year%4==0&&month==2)
+	{
+		if (day>0&&day<30)
+			printf("correct\n");
+		else
+			printf("incorrect\n");
+	}
+	else 
+	{
+		if (day>0&&day<29)
+			printf("correct\n");
+		else
+			printf("incorrect\n");
+	}
+	return 0;
+}
+			
+
+
+
+
+
