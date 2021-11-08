@@ -1,0 +1,59 @@
+<p>#标题1</p>
+<p>##标题2</p>
+<p>###标题3</p>
+<p>####标题4</p>
+<p>&nbsp;</p>
+<blockquote><p>这是一个引用</p>
+</blockquote>
+<p>&nbsp;</p>
+<p>有序列表：</p>
+<p>1.开门</p>
+<p>2.关门</p>
+<p>&nbsp;</p>
+<p>无须列表：</p>
+<ul>
+<li>啦啦啦啦</li>
+<li>不啦不啦</li>
+
+</ul>
+<p>&nbsp;</p>
+<p>明天要做的事：</p>
+<p>-[]吃饭</p>
+<p>-[]睡觉</p>
+<p>&nbsp;</p>
+<p>代码块：</p>
+<pre><code class='language-java' lang='java'>public class Typora{
+    public static void main(String[] args){
+        System.out.println(&quot;厉害呀&quot;);
+    }
+}
+</code></pre>
+<p>&nbsp;</p>
+<p>数学公式：</p>
+<div contenteditable="false" spellcheck="false" class="mathjax-block md-end-block md-math-block md-rawblock" id="mathjax-n28" cid="n28" mdtype="math_block" data-math-tag-before="0" data-math-tag-after="0" data-math-labels="[]"><div class="md-rawblock-container md-math-container" tabindex="-1"><mjx-container class="MathJax" jax="SVG" display="true" style="position: relative;"><svg xmlns="http://www.w3.org/2000/svg" width="9.317ex" height="1.971ex" role="img" focusable="false" viewBox="0 -666 4118 871" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" style="vertical-align: -0.464ex;" class="in-text-selection"><defs><path id="MJX-2-TEX-I-1D465" d="M52 289Q59 331 106 386T222 442Q257 442 286 424T329 379Q371 442 430 442Q467 442 494 420T522 361Q522 332 508 314T481 292T458 288Q439 288 427 299T415 328Q415 374 465 391Q454 404 425 404Q412 404 406 402Q368 386 350 336Q290 115 290 78Q290 50 306 38T341 26Q378 26 414 59T463 140Q466 150 469 151T485 153H489Q504 153 504 145Q504 144 502 134Q486 77 440 33T333 -11Q263 -11 227 52Q186 -10 133 -10H127Q78 -10 57 16T35 71Q35 103 54 123T99 143Q142 143 142 101Q142 81 130 66T107 46T94 41L91 40Q91 39 97 36T113 29T132 26Q168 26 194 71Q203 87 217 139T245 247T261 313Q266 340 266 352Q266 380 251 392T217 404Q177 404 142 372T93 290Q91 281 88 280T72 278H58Q52 284 52 289Z"></path><path id="MJX-2-TEX-N-3D" d="M56 347Q56 360 70 367H707Q722 359 722 347Q722 336 708 328L390 327H72Q56 332 56 347ZM56 153Q56 168 72 173H708Q722 163 722 153Q722 140 707 133H70Q56 140 56 153Z"></path><path id="MJX-2-TEX-I-1D466" d="M21 287Q21 301 36 335T84 406T158 442Q199 442 224 419T250 355Q248 336 247 334Q247 331 231 288T198 191T182 105Q182 62 196 45T238 27Q261 27 281 38T312 61T339 94Q339 95 344 114T358 173T377 247Q415 397 419 404Q432 431 462 431Q475 431 483 424T494 412T496 403Q496 390 447 193T391 -23Q363 -106 294 -155T156 -205Q111 -205 77 -183T43 -117Q43 -95 50 -80T69 -58T89 -48T106 -45Q150 -45 150 -87Q150 -107 138 -122T115 -142T102 -147L99 -148Q101 -153 118 -160T152 -167H160Q177 -167 186 -165Q219 -156 247 -127T290 -65T313 -9T321 21L315 17Q309 13 296 6T270 -6Q250 -11 231 -11Q185 -11 150 11T104 82Q103 89 103 113Q103 170 138 262T173 379Q173 380 173 381Q173 390 173 393T169 400T158 404H154Q131 404 112 385T82 344T65 302T57 280Q55 278 41 278H27Q21 284 21 287Z"></path><path id="MJX-2-TEX-N-2B" d="M56 237T56 250T70 270H369V420L370 570Q380 583 389 583Q402 583 409 568V270H707Q722 262 722 250T707 230H409V-68Q401 -82 391 -82H389H387Q375 -82 369 -68V230H70Q56 237 56 250Z"></path><path id="MJX-2-TEX-N-31" d="M213 578L200 573Q186 568 160 563T102 556H83V602H102Q149 604 189 617T245 641T273 663Q275 666 285 666Q294 666 302 660V361L303 61Q310 54 315 52T339 48T401 46H427V0H416Q395 3 257 3Q121 3 100 0H88V46H114Q136 46 152 46T177 47T193 50T201 52T207 57T213 61V578Z"></path></defs><g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)"><g data-mml-node="math"><g data-mml-node="mi"><use data-c="1D465" xlink:href="#MJX-2-TEX-I-1D465"></use></g><g data-mml-node="mo" transform="translate(849.8,0)"><use data-c="3D" xlink:href="#MJX-2-TEX-N-3D"></use></g><g data-mml-node="mi" transform="translate(1905.6,0)"><use data-c="1D466" xlink:href="#MJX-2-TEX-I-1D466"></use></g><g data-mml-node="mo" transform="translate(2617.8,0)"><use data-c="2B" xlink:href="#MJX-2-TEX-N-2B"></use></g><g data-mml-node="mn" transform="translate(3618,0)"><use data-c="31" xlink:href="#MJX-2-TEX-N-31"></use></g></g></g></svg></mjx-container></div></div>
+<p>表格：</p>
+<figure><table>
+<thead>
+<tr><th style='text-align:left;' >姓名</th><th>年龄</th></tr></thead>
+<tbody><tr><td style='text-align:left;' >&nbsp;</td><td>&nbsp;</td></tr><tr><td style='text-align:left;' >&nbsp;</td><td>&nbsp;</td></tr></tbody>
+</table></figure>
+<p>&nbsp;</p>
+<p>脚注：</p>
+<p>你好<sup class='md-footnote'><a href='#dfref-footnote-1' name='ref-footnote-1'>1</a></sup></p>
+
+<p>&nbsp;</p>
+<hr />
+<p>&nbsp;</p>
+<p><a href='baidu.com'>百度</a></p>
+<p>&nbsp;</p>
+<p>[百度][id]</p>
+<p>&nbsp;</p>
+<p>URL：</p>
+<p><a href='https://www.baidu,com' target='_blank' class='url'>https://www.baidu,com</a></p>
+<p>&nbsp;</p>
+<p><img src="C:\Users\厉祥\Documents\Scanned Documents\欢迎扫描.jpg" referrerpolicy="no-referrer" alt="百度"></p>
+<p>&nbsp;</p>
+<p><em>xieti</em>       <strong>加粗</strong>     </p>
+<p>&nbsp;</p>
+
+<div class='footnote-line'><span class='md-fn-count'>1</span>  <a name='dfref-footnote-1' href='#ref-footnote-1' title='回到文档' class='reversefootnote' >↩</a></div>
